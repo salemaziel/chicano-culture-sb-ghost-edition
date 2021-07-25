@@ -26,3 +26,11 @@
 @import "misc/portal.css";
 @import "misc/animations.css";
 
+
+@media screen and (max-width:991px) {
+    .with-full-cover #site-header .menu-item,
+    .with-alt-header #site-header .menu-item {
+        color: #fff;
+        text-shadow: 2px 2px 3px #8b4513;
+}
+}

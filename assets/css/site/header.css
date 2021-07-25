@@ -229,6 +229,8 @@
     #site-header .menu-item {
         margin: 0.6rem 0;
         font-size: 2.5rem;
+        color: #fff;
+        text-shadow: 2px 2px 3px #8b4513;
     }
 
     #site-header .header-actions {
@@ -330,4 +332,8 @@
         height: 24px;
         text-shadow: 2px 2px 3px #8b4513;
     }
+    .logo-text {
+        color: white;
+    }
+
 }

@@ -26,3 +26,9 @@ dist/
 config.json
 changelog.md
 changelog.md.bk
+
+.vscode/*
+
+/.vscode
+
+.history/*
